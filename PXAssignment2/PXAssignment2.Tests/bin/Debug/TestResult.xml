@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--This file represents the results of running a test suite-->
+<test-results name="D:\VisualStudioProjects\PXAssignment2\PXAssignment2.Tests\bin\Debug\PXAssignment2.Tests.dll" total="6" errors="0" failures="0" not-run="0" inconclusive="0" ignored="0" skipped="0" invalid="0" date="2017-02-15" time="21:06:58">
+  <environment nunit-version="2.6.4.14350" clr-version="2.0.50727.8745" os-version="Microsoft Windows NT 6.2.9200.0" platform="Win32NT" cwd="C:\Program Files (x86)\NUnit 2.6.4\bin" machine-name="DESKTOP-NLEJDDG" user="Paul" user-domain="DESKTOP-NLEJDDG" />
+  <culture-info current-culture="en-CA" current-uiculture="en-US" />
+  <test-suite type="Assembly" name="D:\VisualStudioProjects\PXAssignment2\PXAssignment2.Tests\bin\Debug\PXAssignment2.Tests.dll" executed="True" result="Success" success="True" time="0.034" asserts="0">
+    <results>
+      <test-suite type="Namespace" name="PXAssignment2" executed="True" result="Success" success="True" time="0.028" asserts="0">
+        <results>
+          <test-suite type="Namespace" name="Tests" executed="True" result="Success" success="True" time="0.028" asserts="0">
+            <results>
+              <test-suite type="TestFixture" name="TriangleSolverTest" executed="True" result="Success" success="True" time="0.027" asserts="0">
+                <results>
+                  <test-case name="PXAssignment2.Tests.TriangleSolverTest.AnalyzeMehtod_Given87And34AndNegative44_ResultIsInvalidValuesMessage" executed="True" result="Success" success="True" time="0.015" asserts="1" />
+                  <test-case name="PXAssignment2.Tests.TriangleSolverTest.AnalyzeMethod_Given2And2And8_ResultIsNoTriangleFormedMessage" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+                  <test-case name="PXAssignment2.Tests.TriangleSolverTest.AnalyzeMethod_Given3And3And0_ResultIsInvalidValuesMessage" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+                  <test-case name="PXAssignment2.Tests.TriangleSolverTest.AnalyzeMethod_Given3And3And3_ResultIsEquilateralTriangleMessage" executed="True" result="Success" success="True" time="0.001" asserts="1" />
+                  <test-case name="PXAssignment2.Tests.TriangleSolverTest.AnalyzeMethod_Given8And12And10_ResultIsScaleneTriangleMessage" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+                  <test-case name="PXAssignment2.Tests.TriangleSolverTest.AnalyzeMethod_Given9And9And8_ResultIsIsocelesTriangleMessage" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+                </results>
+              </test-suite>
+            </results>
+          </test-suite>
+        </results>
+      </test-suite>
+    </results>
+  </test-suite>
+</test-results>

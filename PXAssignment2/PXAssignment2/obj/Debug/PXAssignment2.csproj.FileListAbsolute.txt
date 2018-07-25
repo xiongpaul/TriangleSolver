@@ -1,0 +1,9 @@
+D:\VIsualStudioProjects\PXAssignment2\PXAssignment2\bin\Debug\PXAssignment2.exe.config
+D:\VisualStudioProjects\PXAssignment2\PXAssignment2\bin\Debug\PXAssignment2.exe
+D:\VisualStudioProjects\PXAssignment2\PXAssignment2\bin\Debug\PXAssignment2.pdb
+D:\VisualStudioProjects\PXAssignment2\PXAssignment2\obj\Debug\PXAssignment2.exe
+D:\VisualStudioProjects\PXAssignment2\PXAssignment2\obj\Debug\PXAssignment2.pdb
+D:\VisualStudioProjects\PXAssignment2\PXAssignment2\obj\Debug\PXAssignment2.csprojResolveAssemblyReference.cache
+G:\Year 4\PROG2070\Assignments\PXAssignment2\PXAssignment2\bin\Debug\PXAssignment2.exe.config
+G:\Year 4\PROG2070\Assignments\PXAssignment2\PXAssignment2\obj\Debug\PXAssignment2.exe
+G:\Year 4\PROG2070\Assignments\PXAssignment2\PXAssignment2\obj\Debug\PXAssignment2.pdb
